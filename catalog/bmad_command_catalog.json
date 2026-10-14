@@ -1,0 +1,308 @@
+{
+  "agents_core": [
+    {
+      "name": "bmad-agent-analyst",
+      "desc": "Strategic business analyst and requirements expert. Use when the user asks to talk to Mary or requests the business analyst."
+    },
+    {
+      "name": "bmad-agent-architect",
+      "desc": "System architect and technical design leader. Use when the user asks to talk to Winston or requests the architect."
+    },
+    {
+      "name": "bmad-agent-dev",
+      "desc": "Senior software engineer for story execution and code implementation. Use when the user asks to talk to Amelia or requests the developer agent."
+    },
+    {
+      "name": "bmad-agent-financial-analyst",
+      "desc": "Financial Analyst specialist. Builds financial models, projections, cash flow forecasts, and investment evaluations. Use when user requests financial modeling, forecasting, or unit economics."
+    },
+    {
+      "name": "bmad-agent-game-developer",
+      "desc": "Phaser 3 & TypeScript Game Developer (Maya). Transforms GDD and mechanics into performant 60 FPS 2D browser games. Use when user requests Maya, Phaser 3, TypeScript game dev, or game implementation."
+    },
+    {
+      "name": "bmad-agent-game-sm",
+      "desc": "Game Scrum Master (Jordan). Prepares game dev stories, validates definition of done for game assets, and tracks milestones. Use when user requests game agile planning, game stories, or game scrum master."
+    },
+    {
+      "name": "bmad-agent-infra-devops",
+      "desc": "DevOps Infrastructure & Platform Engineer (Alex). Specializes in Docker, Kubernetes, CI/CD, Terraform, SRE, and cloud resilience. Use when user requests Alex, devops, infra, kubernetes, or platform engineering."
+    },
+    {
+      "name": "bmad-agent-master",
+      "desc": "Universal Task Executor for BMAD. Directly executes templates, checklists, and workflows across all domains. Use when user requests master executor or direct resource execution."
+    },
+    {
+      "name": "bmad-agent-orchestrator",
+      "desc": "Master Orchestrator for BMAD. Guides workflow coordination, multi-agent collaboration, and role switching. Use when user requests orchestrator, multi-agent coordination, or bmad workflow guidance."
+    },
+    {
+      "name": "bmad-agent-pm",
+      "desc": "Product manager for PRD creation and requirements discovery. Use when the user asks to talk to John or requests the product manager."
+    },
+    {
+      "name": "bmad-agent-po",
+      "desc": "Technical Product Owner & Process Steward (Sarah). Manages product backlog, story refinement, acceptance criteria, and plan integrity. Use when user requests Sarah, po, backlog management, or story refinement."
+    },
+    {
+      "name": "bmad-agent-qa",
+      "desc": "Senior Developer & QA Architect (Quinn). Enforces code quality, refactoring, automated testing strategies, and mentorship. Use when user requests Quinn, qa, test strategy, or senior code review."
+    },
+    {
+      "name": "bmad-agent-sm",
+      "desc": "Technical Scrum Master (Bob). Expert in story preparation, agile rituals, velocity tracking, and developer handoffs. Use when user requests Bob, sm, scrum master, or story preparation."
+    },
+    {
+      "name": "bmad-agent-tech-writer",
+      "desc": "Technical documentation specialist and knowledge curator. Use when the user asks to talk to Paige or requests the tech writer."
+    },
+    {
+      "name": "bmad-agent-ux-designer",
+      "desc": "UX designer and UI specialist. Use when the user asks to talk to Sally or requests the UX designer."
+    },
+    {
+      "name": "bmad-aisg-ml-architect",
+      "desc": "ML/AI System Architect (Rizwan bin Abdullah) from AI Singapore pack. Use when user requests Rizwan, ml-architect, ML system design, scalable distributed architectures, RAG, or model selection strategy."
+    }
+  ],
+  "agents_expansion": [
+    {
+      "name": "bmad-agent-fitness-trainer",
+      "desc": "Fitness Trainer specialist. Designs workout programs, progressive overload plans, form guidance, and periodization. Use when user requests workout plans, strength training, or exercise routines."
+    },
+    {
+      "name": "bmad-agent-game-designer",
+      "desc": "Game Design Specialist (Alex). Crafts Game Design Documents (GDD), core game loops, progression, and player experience. Use when user requests game design, mechanics, GDD, or gameplay balancing."
+    },
+    {
+      "name": "bmad-agent-habit-engineer",
+      "desc": "Habit Engineer specialist. Designs habit stacking, behavioral routines, accountability systems, and friction removal. Use when user requests habit building, routine design, or behavior change."
+    },
+    {
+      "name": "bmad-agent-hr-advisor",
+      "desc": "HR Advisor specialist. Guides talent acquisition, organizational culture, performance frameworks, and team retention. Use when user requests hiring strategy, org design, or HR advisory."
+    },
+    {
+      "name": "bmad-agent-investor-researcher",
+      "desc": "Investor Researcher specialist. Identifies and matches investors (VCs, angels) to business stages, preparing outreach strategies. Use when user requests investor search, fundraising prep, or VC matching."
+    },
+    {
+      "name": "bmad-agent-marketing-strategist",
+      "desc": "Marketing Strategist specialist. Develops GTM plans, brand positioning, growth funnels, and marketing campaigns. Use when user requests marketing strategy, go-to-market, or acquisition channels."
+    },
+    {
+      "name": "bmad-agent-nutritionist",
+      "desc": "Nutritionist specialist. Formulates macronutrient targets, meal planning strategies, and sustainable dietary protocols. Use when user requests nutrition planning, macro calculation, or meal strategies."
+    },
+    {
+      "name": "bmad-agent-operations-manager",
+      "desc": "Operations Manager specialist. Streamlines business operations, SOPs, resource allocation, and launch readiness. Use when user requests operational efficiency, process optimization, or SOP design."
+    },
+    {
+      "name": "bmad-agent-running-coach",
+      "desc": "Running Coach specialist. Designs periodized running plans (5K to marathon), pacing strategies, and Garmin training sync. Use when user requests running plans, race training, or endurance coaching."
+    },
+    {
+      "name": "bmad-agent-sleep-coach",
+      "desc": "Sleep Coach specialist. Optimizes circadian rhythms, bedtime wind-down routines, sleep environment, and sleep hygiene. Use when user requests sleep improvement, circadian rhythm, or sleep hygiene."
+    },
+    {
+      "name": "bmad-agent-strategy-consultant",
+      "desc": "Strategy Consultant specialist. Guides business strategy, SWOT analysis, market positioning, and business model design. Use when user requests business strategy, competitive advantage, or strategic planning."
+    },
+    {
+      "name": "bmad-agent-stress-manager",
+      "desc": "Stress Manager specialist. Teaches evidence-based stress reduction, nervous system regulation, work-life balance, and resilience. Use when user requests stress management, burnout prevention, or resilience."
+    },
+    {
+      "name": "bmad-agent-the-creator",
+      "desc": "BMAD Framework Extension Specialist (The Creator). Designs and authors new BMAD agents, expansion packs, and custom workflows. Use when user requests creating new agents or extending BMAD."
+    },
+    {
+      "name": "bmad-aisg-aiml",
+      "desc": "AI Singapore BMAD AI/ML Engineering Expansion Pack orchestrator. Access Marcus, Rizwan, Sophia, Priya, Dr. Dylan, workflows (MVP, POC, LADP), and MLOps templates."
+    },
+    {
+      "name": "bmad-aisg-ml-data-scientist",
+      "desc": "Senior Data Scientist (Sophia D'Cruz) from AI Singapore pack. Use when user requests Sophia, ml-data-scientist, statistical analysis, exploratory data analysis (EDA), feature engineering, A/B testing, or model evaluation."
+    },
+    {
+      "name": "bmad-aisg-ml-engineer",
+      "desc": "ML/AI Engineer & MLOps Specialist (Marcus Tan Wei Ming) from AI Singapore pack. Use when user requests Marcus, ml-engineer, MLOps pipeline, model training, evaluation, ONNX export, or containerized ML deployment."
+    },
+    {
+      "name": "bmad-aisg-ml-researcher",
+      "desc": "ML Research Scientist (Dr. Dylan Poh) from AI Singapore pack. Use when user requests Dr. Dylan, ml-researcher, literature review, SOTA ML research, mathematical formulation, or experimental design."
+    },
+    {
+      "name": "bmad-aisg-ml-security-ethics",
+      "desc": "ML Security & Ethics Specialist (Priya Sharma) from AI Singapore pack. Use when user requests Priya, ml-security-ethics, ML security audit, red teaming, bias detection, data privacy (UU PDP/PDPA), or AI compliance."
+    }
+  ],
+  "workflows_lifecycle": [
+    {
+      "name": "bmad-architecture",
+      "desc": "Produce the architecture: a lean spine of invariants that keeps everything built from it consistent, projected into whatever format the work needs. Use when the user says \"create the architecture\", \"create technical architecture\", \"architecture spine\", or \"create a solution design\"."
+    },
+    {
+      "name": "bmad-brainstorming",
+      "desc": "Facilitate a brainstorming session using diverse creative techniques. Use when the user says 'help me brainstorm' or 'help me ideate'."
+    },
+    {
+      "name": "bmad-create-architecture",
+      "desc": "DEPRECATED — consolidated into bmad-architecture create intent - this skill will be removed in v7 in favor of `bmad-architecture`."
+    },
+    {
+      "name": "bmad-create-epics-and-stories",
+      "desc": "Break requirements into epics and user stories. Use when the user says \"create the epics and stories list"
+    },
+    {
+      "name": "bmad-create-prd",
+      "desc": "DEPRECATED — consolidated into bmad-prd create intent - this skill will be removed in v7 in favor of `bmad-prd`."
+    },
+    {
+      "name": "bmad-create-story",
+      "desc": "Creates a dedicated story file with all the context the agent will need to implement it later. Use when the user says \"create the next story\" or \"create story [story identifier]"
+    },
+    {
+      "name": "bmad-dev-story",
+      "desc": "Execute story implementation following a context filled story spec file. Use when the user says \"dev this story [story file]\" or \"implement the next story in the sprint plan"
+    },
+    {
+      "name": "bmad-domain-research",
+      "desc": "Conduct domain and industry research. Use when the user says wants to do domain research for a topic or industry"
+    },
+    {
+      "name": "bmad-edit-prd",
+      "desc": "DEPRECATED — consolidated into bmad-prd update intent - this skill will be removed in v7 in favor of `bmad-prd`."
+    },
+    {
+      "name": "bmad-market-research",
+      "desc": "Conduct market research on competition and customers. Use when the user says they need market research"
+    },
+    {
+      "name": "bmad-prd",
+      "desc": "Create, update, or validate a PRD. Use when the user wants help producing, editing, or validating a PRD."
+    },
+    {
+      "name": "bmad-prfaq",
+      "desc": "Working Backwards PRFAQ challenge that stress-tests a product concept customer-first. Use when the user requests to 'create a PRFAQ', 'work backwards', or 'run the PRFAQ challenge'."
+    },
+    {
+      "name": "bmad-product-brief",
+      "desc": "Create, update, or validate a product brief. Use when the user wants help producing, editing, or validating a brief."
+    },
+    {
+      "name": "bmad-qa-generate-e2e-tests",
+      "desc": "Generate end to end automated tests for existing features. Use when the user says \"create qa automated tests for [feature]"
+    },
+    {
+      "name": "bmad-quick-dev",
+      "desc": "Implements any user intent, requirement, story, bug fix or change request by producing clean working code artifacts that follow the project''s existing architecture, patterns and conventions. Use when the user wants to build, fix, tweak, refactor, add or modify any code, component or feature."
+    },
+    {
+      "name": "bmad-retrospective",
+      "desc": "Post-epic review to extract lessons and assess success. Use when the user says \"run a retrospective\" or \"lets retro the epic [epic]"
+    },
+    {
+      "name": "bmad-sprint-planning",
+      "desc": "Generate sprint status tracking from epics. Use when the user says \"run sprint planning\" or \"generate sprint plan"
+    },
+    {
+      "name": "bmad-sprint-status",
+      "desc": "Summarize sprint status and surface risks. Use when the user says \"check sprint status\" or \"show sprint status"
+    },
+    {
+      "name": "bmad-technical-research",
+      "desc": "Conduct technical research on technologies and architecture. Use when the user says they would like to do or produce a technical research report"
+    },
+    {
+      "name": "bmad-ux",
+      "desc": "Plan UX patterns and design specifications. Use when the user says \"lets create UX design\" or \"create UX specifications\" or \"help me plan the UX"
+    },
+    {
+      "name": "bmad-validate-prd",
+      "desc": "DEPRECATED — consolidated into bmad-prd validate intent - this skill will be removed in v7 in favor of `bmad-prd`."
+    }
+  ],
+  "workflows_party_and_review": [
+    {
+      "name": "bmad-checkpoint-preview",
+      "desc": "LLM-assisted human-in-the-loop review. Make sense of a change, focus attention where it matters, test. Use when the user says \"checkpoint\", \"human review\", or \"walk me through this change\"."
+    },
+    {
+      "name": "bmad-code-review",
+      "desc": "Review code changes adversarially using parallel review layers (Blind Hunter, Edge Case Hunter, Acceptance Auditor) with structured triage into actionable categories. Use when the user says \"run code review\" or \"review this code"
+    },
+    {
+      "name": "bmad-party-mode",
+      "desc": "Orchestrates lively group discussions between installed BMAD agents or custom personas, and helps author custom parties. Use when the user requests party mode, a roundtable, or multiple agent perspectives — or wants to create/configure a party, define personas, or build an AI focus-group panel."
+    },
+    {
+      "name": "bmad-review-adversarial-general",
+      "desc": "Perform a Cynical Review and produce a findings report. Use when the user requests a critical review of something"
+    },
+    {
+      "name": "bmad-review-edge-case-hunter",
+      "desc": "Walk every branching path and boundary condition in content, report only unhandled edge cases. Orthogonal to adversarial review - method-driven not attitude-driven. Use when you need exhaustive edge-case analysis of code, specs, or diffs."
+    }
+  ],
+  "workflows_utility": [
+    {
+      "name": "bmad-advanced-elicitation",
+      "desc": "Push the LLM to reconsider, refine, and improve its recent output. Use when user asks for deeper critique or mentions a known deeper critique method, e.g. socratic, first principles, pre-mortem, red team."
+    },
+    {
+      "name": "bmad-check-implementation-readiness",
+      "desc": "Validate PRD, UX, Architecture and Epics specs are complete. Use when the user says \"check implementation readiness\"."
+    },
+    {
+      "name": "bmad-correct-course",
+      "desc": "Manage significant changes during sprint execution. Use when the user says \"correct course\" or \"propose sprint change"
+    },
+    {
+      "name": "bmad-customize",
+      "desc": "Authors and updates customization overrides for installed BMad skills. Use when the user says 'customize bmad', 'override a skill', 'change agent behavior', or 'customize a workflow'."
+    },
+    {
+      "name": "bmad-dev-auto",
+      "desc": "One iteration of an unattended development loop. Use when invoked by name."
+    },
+    {
+      "name": "bmad-document-project",
+      "desc": "Document brownfield projects for AI context. Use when the user says \"document this project\" or \"generate project docs"
+    },
+    {
+      "name": "bmad-editorial-review-prose",
+      "desc": "Clinical copy-editor that reviews text for communication issues. Use when user says review for prose or improve the prose"
+    },
+    {
+      "name": "bmad-editorial-review-structure",
+      "desc": "Structural editor that proposes cuts, reorganization, and simplification while preserving comprehension. Use when user requests structural review or editorial review of structure"
+    },
+    {
+      "name": "bmad-forge-idea",
+      "desc": "Pressure-test an idea through persona-driven interrogation until it hardens, proves out, or dies cheaply. Use when the user says 'forge an idea', 'pressure-test this idea', 'stress-test my thinking', or 'harden this idea'."
+    },
+    {
+      "name": "bmad-generate-project-context",
+      "desc": "Create project-context.md with AI rules. Use when the user says \"generate project context\" or \"create project context"
+    },
+    {
+      "name": "bmad-help",
+      "desc": "Analyzes current state and user query to answer BMad questions or recommend the next skill(s) to use. Use when user asks for help, bmad help, what to do next, or what to start with in BMad."
+    },
+    {
+      "name": "bmad-index-docs",
+      "desc": "Generates or updates an index.md to reference all docs in the folder. Use if user requests to create or update an index of all files in a specific folder"
+    },
+    {
+      "name": "bmad-shard-doc",
+      "desc": "Splits large markdown documents into smaller, organized files based on level 2 (default) sections. Use if the user says perform shard document"
+    },
+    {
+      "name": "bmad-spec",
+      "desc": "Distill any intent input into the SPEC kernel + companions — the canonical, preservation-validated machine contract for downstream work. Use when the user says \"create a spec\", \"distill this into a spec\", \"validate this spec\", or \"update the spec\"."
+    }
+  ]
+}
