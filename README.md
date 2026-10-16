@@ -77,6 +77,7 @@ Panggil command ini untuk berkonsultasi 1-on-1 dengan spesialis di domain terten
 | Slash Command | Persona & Icon | Keahlian & Kapan Dipakai |
 | :--- | :--- | :--- |
 | `/bmad-agent-strategy-consultant`| 🧭 **Strategy Consultant**| SWOT analysis, competitive positioning, business model canvas. |
+| `/bmad-agent-commercial-negotiator`| 💼 **Vance** (Commercial Negotiator)| B2B deal structuring, vendor fee reduction, Anti-MMC volume protection, COGS baseline sanity check, contract trap radar (Iron Fist in a Velvet Glove). |
 | `/bmad-agent-financial-analyst` | 💰 **Financial Analyst** | Financial modeling, cash flow forecasting, unit economics, valuation. |
 | `/bmad-agent-marketing-strategist`| 📢 **Marketing Strategist** | Go-To-Market (GTM) strategy, ICP segmentation, growth funnels. |
 | `/bmad-agent-operations-manager` | ⚙️ **Operations Manager** | SOP design, process optimization, launch readiness checklist. |
@@ -165,7 +166,8 @@ Format pemanggilan resmi grup diskusi meja bundar:
 9. `--party anti-consensus-club` - Anti-setuju gampangan (Wildcard, Level, Killjoy, Splinter).
 10. `--party game-dev` - Studio Game 2D (Alex, Maya, Jordan).
 11. `--party health-wellness` - Squad Kesehatan & Performa (Fitness, Habit, Nutrisi, Running, Sleep, Stress).
-12. `--party trading-floor` - Sesi Trading & Audit Risiko (Nate, Financial Analyst, Strategy Consultant, Adversary, Edge-Hunter) - Squad Kesehatan & Performa (Fitness, Habit, Nutrisi, Running, Sleep, Stress).
+12. `--party trading-floor` - Sesi Trading & Audit Risiko (Nate, Financial Analyst, Strategy Consultant, Adversary, Edge-Hunter).
+13. `--party commercial-deals` - Sesi Negosiasi Komersial & Audit Kontrak (Vance, Strategy Consultant, Financial Analyst, Adversary, Operations Manager).
 
 *(Catatan: Anda juga dapat memanggil kombinasi bebas langsung di chat, misal: `/bmad-party-mode panggil Winston, Amelia, dan Marcus`)*
 
