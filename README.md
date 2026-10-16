@@ -90,6 +90,11 @@ Panggil command ini untuk berkonsultasi 1-on-1 dengan spesialis di domain terten
 | `/bmad-agent-game-developer` | 👾 **Maya** (Game Developer) | Phaser 3, TypeScript strict, 60 FPS performance, physics & game architecture. |
 | `/bmad-agent-game-sm` | 🏃‍♂️ **Jordan** (Game Scrum Master) | Game asset pipelines, game user stories, DoD verification. |
 
+### Trading & High-Probability Execution
+| Slash Command | Persona & Icon | Keahlian & Kapan Dipakai |
+| :--- | :--- | :--- |
+| `/bmad-agent-liquidity-scalper` | 🎰 **Nate** (Liquidity Scalper) | "Bandar Kasino" scalper: Expected Value ($EV$), liquidity sweeps, killzones (London/NY), stop hunt reversal, hard risk discipline. |
+
 ### Health & Peak Performance
 | Slash Command | Persona & Icon | Keahlian & Kapan Dipakai |
 | :--- | :--- | :--- |
@@ -160,6 +165,7 @@ Format pemanggilan resmi grup diskusi meja bundar:
 9. `--party anti-consensus-club` - Anti-setuju gampangan (Wildcard, Level, Killjoy, Splinter).
 10. `--party game-dev` - Studio Game 2D (Alex, Maya, Jordan).
 11. `--party health-wellness` - Squad Kesehatan & Performa (Fitness, Habit, Nutrisi, Running, Sleep, Stress).
+12. `--party trading-floor` - Sesi Trading & Audit Risiko (Nate, Financial Analyst, Strategy Consultant, Adversary, Edge-Hunter) - Squad Kesehatan & Performa (Fitness, Habit, Nutrisi, Running, Sleep, Stress).
 
 *(Catatan: Anda juga dapat memanggil kombinasi bebas langsung di chat, misal: `/bmad-party-mode panggil Winston, Amelia, dan Marcus`)*
 
