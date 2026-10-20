@@ -168,6 +168,7 @@ Format pemanggilan resmi grup diskusi meja bundar:
 11. `--party health-wellness` - Squad Kesehatan & Performa (Fitness, Habit, Nutrisi, Running, Sleep, Stress).
 12. `--party trading-floor` - Sesi Trading & Audit Risiko (Nate, Financial Analyst, Strategy Consultant, Adversary, Edge-Hunter).
 13. `--party commercial-deals` - Sesi Negosiasi Komersial & Audit Kontrak (Vance, Strategy Consultant, Financial Analyst, Adversary, Operations Manager).
+14. `--party telecom-core` - Dewan Telekomunikasi & 6G (Dr. Aris, Winston, Alex, Vance, Strategy Consultant).
 
 *(Catatan: Anda juga dapat memanggil kombinasi bebas langsung di chat, misal: `/bmad-party-mode panggil Winston, Amelia, dan Marcus`)*
 
