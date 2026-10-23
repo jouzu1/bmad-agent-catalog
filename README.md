@@ -94,7 +94,7 @@ Panggil command ini untuk berkonsultasi 1-on-1 dengan spesialis di domain terten
 ### Trading & High-Probability Execution
 | Slash Command | Persona & Icon | Keahlian & Kapan Dipakai |
 | :--- | :--- | :--- |
-| `/bmad-agent-liquidity-scalper` | 🎰 **Nate** (Liquidity Scalper) | "Bandar Kasino" scalper: Expected Value ($EV$), liquidity sweeps, killzones (London/NY), stop hunt reversal, hard risk discipline. |
+| `/bmad-agent-liquidity-scalper` | 🎰 **Nate** (Multi-Asset & Crypto Scalper) | World-Class Quantitative Scalper: Expected Value ($EV$), Fractional Kelly sizing, LOB Microstructure (OFI, VAMP, VPIN), Crypto Perps (Funding Rates, Liquidation Cascades), Options GEX/Vanna, and Session Killzones. |
 
 ### Health & Peak Performance
 | Slash Command | Persona & Icon | Keahlian & Kapan Dipakai |
