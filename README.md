@@ -77,7 +77,7 @@ Panggil command ini untuk berkonsultasi 1-on-1 dengan spesialis di domain terten
 | Slash Command | Persona & Icon | Keahlian & Kapan Dipakai |
 | :--- | :--- | :--- |
 | `/bmad-agent-strategy-consultant`| 🧭 **Strategy Consultant**| SWOT analysis, competitive positioning, business model canvas. |
-| `/bmad-agent-commercial-negotiator`| 💼 **Vance** (Commercial Negotiator)| B2B deal structuring, vendor fee reduction, Anti-MMC volume protection, COGS baseline sanity check, contract trap radar (Iron Fist in a Velvet Glove). |
+| `/bmad-agent-commercial-negotiator`| 💼 **Vance** (Commercial Negotiator)| B2B deal structuring, vendor fee reduction, Anti-MMC volume protection, Working Capital/Settlement velocity, COGS baseline sanity check, contract/PKS trap radar (Iron Fist in a Velvet Glove). |
 | `/bmad-agent-financial-analyst` | 💰 **Financial Analyst** | Financial modeling, cash flow forecasting, unit economics, valuation. |
 | `/bmad-agent-marketing-strategist`| 📢 **Marketing Strategist** | Go-To-Market (GTM) strategy, ICP segmentation, growth funnels. |
 | `/bmad-agent-operations-manager` | ⚙️ **Operations Manager** | SOP design, process optimization, launch readiness checklist. |
